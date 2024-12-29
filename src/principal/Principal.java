@@ -11,6 +11,7 @@ public class Principal {
         Scanner lectura = new Scanner(System.in);
         MonedaConsultar consulta = new MonedaConsultar();
 
+        System.out.println("~~~~~~~~~~Conversor de Monedas~~~~~~~~~~");
 
         int option = 0;
 
