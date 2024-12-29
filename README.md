@@ -30,6 +30,7 @@ Para ejecutar esta aplicación, necesitas tener instalada la siguiente tecnolog�
 - **Java 8 o superior**: El código está escrito en Java, por lo que necesitas tenerlo instalado en tu sistema.
 
 #Diseño del Menu
+
 ![image](https://github.com/user-attachments/assets/e80ed5c7-817c-43ad-b3c1-a83ced43faca)
 
   
